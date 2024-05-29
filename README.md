@@ -1,0 +1,1 @@
+Repositório onde conterá o Assistente Virtual do TTeu, um projeto inicialmente para organizar eventos para assistir a Segunda Temporada de House of the Dragon.
